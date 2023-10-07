@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 浩麟的博客
+title: 浩林的技术总结
 subtitle: 实用、前沿、深入、原创
-author: 吴浩麟
+author: 浩林
 language: zh-CN
 timezone:
 
@@ -19,9 +19,9 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: 浩麟的博客
+SEOTitle: 浩林的博客
 header-img: img/bg.jpg
-email: gwuhaolin@icloud.com
+email: mygithubcn@gmail.com
 description: ""
 keyword: ""
 
