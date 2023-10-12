@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 浩的技术总结
+title: 浩林的技术总结
 subtitle: 实用、前沿、深入、原创
 author: 浩
 language: zh-CN
@@ -19,7 +19,7 @@ permalink_defaults:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: 浩的博客
+SEOTitle: 浩林的技术总结
 header-img: img/bg.jpg
 email: mygithubcn@gmail.com
 description: ""
